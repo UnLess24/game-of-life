@@ -1,0 +1,35 @@
+body {
+    background-color: gray;
+}
+
+.alive {
+    background-color: yellowgreen;
+    border-radius: 15%;
+}
+
+.button {
+    margin: 0 5px;
+    border: yellowgreen solid 2px;
+    border-radius: 15%;
+    background-color: Transparent;
+}
+
+.cell {
+    border: lightgray solid 1px;
+}
+
+.controls {
+    margin: 15px auto;
+    width: 300px;
+}
+
+.table {
+    border-spacing: 0px;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    color: yellowgreen;
+}
+
